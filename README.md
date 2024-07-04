@@ -10,6 +10,7 @@ This project aims to predict diabetes using a machine learning model deployed on
 
 - **`index.py`**: Main file to run the Streamlit app.
 - **`model.pkl`**: Pre-trained machine learning model saved using joblib.
+- **`scaler.pkl`**: A pickle file containing the scaler used for feature scaling.
 - **`requirements.txt`**: List of Python packages required to run the app.
 - **`README.md`**: Project documentation.
 - **`diabetes.csv`**: The dataset and any other necessary data files.
